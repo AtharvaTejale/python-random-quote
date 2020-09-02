@@ -10,4 +10,6 @@ def main():
 if __name__== "__main__":
   main()
 python get-quote.py
-git.push
+git add get-quote.py
+git commit -m "Random quote bot is working"
+git push
